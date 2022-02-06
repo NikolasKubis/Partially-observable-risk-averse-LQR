@@ -11,6 +11,6 @@ The figure shows the penalty's variability over time.
   <img src="state penalty.jpg" width="600" height="250"/>
 </p>
 
-Note that although the risk-neutral LQR is optimal on average, it experiences large realization erros 
-due to the skewed process noise.  On the contrary, risk-averse LQR being causious w.r.t. such noise gusts,
-it maintains a smaller variability with the cost of a slightly worse average performance.
+Note that the risk-neutral LQR, although optimal on average, it experiences significant realization errors due to the skewed process noise. 
+On the contrary, risk-averse LQR being cautious w.r.t. such noise gusts, maintaining a smaller variability 
+but trading off a slightly worse average performance and an increased control effort.
