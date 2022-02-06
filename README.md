@@ -8,7 +8,7 @@ The figure shows the penalty's variability over time.
 
 
 <p>
-  <img src="" width="600" height="250"/>
+  <img src="state penalty.jpg" width="600" height="250"/>
 </p>
 
 Note that although the risk-neutral LQR is optimal on average, it experiences large realization erros 
