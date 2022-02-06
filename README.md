@@ -1,4 +1,4 @@
-# Partially-observable-risk-averse-LQR
+# Partially observable risk-averse LQR
 This package shows how to implement partially observable linear quadratic regulation subject to risk constraints. 
 The latter are expressed by the predictive squared error variance of the state penalty. Essentially, the constraint represents a statistical spring in time 
 that restricts the statistical variability of the penalized state Euclidean norm. 
